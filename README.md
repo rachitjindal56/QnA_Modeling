@@ -143,13 +143,3 @@ A list containing list of dictionaries as output.
 
 **Server:** Python, Transformers, Hugging Face, 
 
-
-## Authors
-
-- [@Rachit R Jindal](https://www.github.com/rachitjindal56)
-
-
-## Tech Stack
-
-**Server:** Python, Transformers, Hugging Face, 
-
